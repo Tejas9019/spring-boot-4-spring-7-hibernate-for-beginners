@@ -1,9 +1,9 @@
-# Spring Boot 3, Spring 6 and Hibernate for Beginners
+# Spring Boot 4, Spring 7 and Hibernate for Beginners
 ## Course Links
 
 Here is a list of links that I mentioned in the course. I also added extra links that you may find useful.
 
-### Section 1: Spring Boot 3 Quick Start
+### Section 1: Spring Boot Quick Start
 
 | Name       | Web Link       |    
 |:------------- |:-------------|
@@ -120,8 +120,6 @@ Here is a list of links that I mentioned in the course. I also added extra links
 
 | Name       | Web Link       |    
 |:------------- |:-------------|
-| Spring Boot 4 Blog Series - Road to GA
- | https://spring.io/blog/2025/09/02/road_to_ga_introduction |
-| Spring Boot 4 Release Notes
- | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-4.0-Release-Notes |
+| Spring Boot 4 Blog Series - Road to GA | https://spring.io/blog/2025/09/02/road_to_ga_introduction |
+| Spring Boot 4 Release Notes | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-4.0-Release-Notes |
 | Spring Boot 4 Migration Guide      | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-4.0-Migration-Guide  |
