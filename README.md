@@ -1,6 +1,6 @@
 # Spring Boot 4, Spring 7 and Hibernate for Beginners
 
-![Build Status](https://github.com/darbyluv2code/spring-boot-4-spring-7-hibernate-for-beginners/actions/workflows/build.yml/badge.svg)
+[![Build Status](https://github.com/darbyluv2code/spring-boot-4-spring-7-hibernate-for-beginners/actions/workflows/build.yml/badge.svg)](https://github.com/darbyluv2code/spring-boot-4-spring-7-hibernate-for-beginners/actions/workflows/build.yml)
 
 Source code for the course: [Spring Boot 4, Spring 7 and Hibernate for Beginners](http://www.luv2code.com/spring-github)
 
